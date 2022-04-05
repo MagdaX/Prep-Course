@@ -1,0 +1,7 @@
+Variables= son palabras que les adjudicamos valor para poder acceder a su contenido y/o despues recuperarla.
+Strings= son concatenación de palabras que conforman una oración. Hay que ponerles comillas, sino queda en formato de variable.
+Funciones= declaran lo que vamos a hacer con las variables. Y sirven también para no repetir el mismo código más de una vez.
+Argumentos= contienen el valor que declaramos en la función.
+Return= es una manera de devolverse al estado previo de la función, anula y devuelve lo que se le adjudica.
+Declaraciones= if= sirven para esclarecer un valor de manera condicional. Es decir, si determinada situación tiene cierto valor, la otra situación contiene otro valor distinto.
+Valores booleanos= true-false= pueden tener dos valores posibles, uno valor será verdadero y el otro falso.
